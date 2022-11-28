@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "eslint-disable-next-line prettier/prettier": true,
+  "eslint-disable-next-line prefer-const": true,
+  "eslint-disable @typescript-eslint/no-unused-vars": true,
+  "eslint-disable prefer-const": true,
+  "eslint-disable-next-line @typescript-eslint/no-unused-vars": true
+}
